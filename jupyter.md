@@ -12,3 +12,4 @@ python -m ipykernel install --user --name myenv --display-name "Python (myenv)"
 source activate other-env
 python -m ipykernel install --user --name other-env --display-name "Python (other-env)"
 ```
+How to run .py in jupyter
